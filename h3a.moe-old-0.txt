@@ -1,0 +1,304 @@
+commit ced99926ebd98da1d129d74e10993c0966b12d80
+gpg: Signature made Wed 15 Sep 2021 09:03:40 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Wed Sep 15 09:03:33 2021 +0800
+
+    try for the 3rd time
+
+commit 2d579fefcf4c150a40d92429631fae7740218ffd
+gpg: Signature made Wed 15 Sep 2021 08:53:47 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Wed Sep 15 08:53:37 2021 +0800
+
+    once again
+
+commit 85b829f0e8b60067536ea212445cc85b4fd94ac2
+gpg: Signature made Wed 15 Sep 2021 08:32:46 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Wed Sep 15 08:32:24 2021 +0800
+
+    Try to fix links again
+
+commit de09d8856957eadee04ad8e684032746dc6eb0bc
+gpg: Signature made Wed 15 Sep 2021 08:29:59 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Wed Sep 15 08:29:41 2021 +0800
+
+    trying to fix
+
+commit d2d177056d779d177e69e51e690612bad8f5dc97
+gpg: Signature made Wed 15 Sep 2021 08:21:23 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Wed Sep 15 08:20:57 2021 +0800
+
+    Changed the path of an image.
+
+commit 7d47a45125567154e3fdada71513211abf4efc7e
+gpg: Signature made Wed 15 Sep 2021 08:14:23 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Wed Sep 15 08:13:48 2021 +0800
+
+    Generate public folder locally.
+
+commit 38b9a48f7bd3b468843c0cd90b4c2f9e4d6cccbc
+gpg: Signature made Tue 14 Sep 2021 23:42:02 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Tue Sep 14 23:41:51 2021 +0800
+
+    Edited Gitalk repo.
+
+commit eb4909f931d932f162f7d3080f538a6ee016308d
+gpg: Signature made Tue 14 Sep 2021 23:16:48 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Tue Sep 14 23:15:29 2021 +0800
+
+    Tuned "ground_glass" parameter & Polished the articles again.
+
+commit 55526595f42c755f0c16e7613ade6251fdd216c2
+gpg: Signature made Tue 14 Sep 2021 22:57:25 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Tue Sep 14 22:57:06 2021 +0800
+
+    calculated.
+
+commit 1a4fc0d04b49684240aca76440516544b2c4a118
+gpg: Signature made Tue 14 Sep 2021 22:44:59 +08
+gpg:                using RSA key 4AEE18F83AFDEB23
+gpg: Can't check signature: No public key
+Merge: adc9c05 a649f85
+Author: H3arn <75999000+H3arn@users.noreply.github.com>
+Date:   Tue Sep 14 22:44:59 2021 +0800
+
+    Merge pull request #1 from H3arn/dependabot/npm_and_yarn/hexo-renderer-kramed-0.1.4
+    
+    Bump hexo-renderer-kramed from 0.1.2 to 0.1.4
+
+commit a649f856c76c58bf3097470532577ecb3505750e
+gpg: Signature made Tue 14 Sep 2021 22:42:00 +08
+gpg:                using RSA key 4AEE18F83AFDEB23
+gpg: Can't check signature: No public key
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Tue Sep 14 14:42:00 2021 +0000
+
+    Bump hexo-renderer-kramed from 0.1.2 to 0.1.4
+    
+    Bumps [hexo-renderer-kramed](https://github.com/sun11/hexo-renderer-kramed) from 0.1.2 to 0.1.4.
+    - [Release notes](https://github.com/sun11/hexo-renderer-kramed/releases)
+    - [Commits](https://github.com/sun11/hexo-renderer-kramed/commits)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: hexo-renderer-kramed
+      dependency-type: direct:production
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit adc9c05ded4b44e73e1f1a2a5e3a1a416705a35d
+gpg: Signature made Tue 14 Sep 2021 21:45:15 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Tue Sep 14 21:44:36 2021 +0800
+
+    Add a new article. Modified the Links page.
+
+commit c96e05a90eb3d83348c12f16c25a65d0d8570491
+gpg: Signature made Tue 14 Sep 2021 18:06:58 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Tue Sep 14 18:06:36 2021 +0800
+
+    minor fixes
+
+commit 397dec8abc297e6f7f36670e06e9bef532514156
+gpg: Signature made Tue 14 Sep 2021 17:41:42 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Tue Sep 14 17:41:14 2021 +0800
+
+    Emergency fix of kramed todo list
+
+commit eb15c64b07e43c26c57eb7326d65d57d4c63071e
+gpg: Signature made Tue 14 Sep 2021 17:36:42 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Tue Sep 14 17:36:23 2021 +0800
+
+    Add new post
+
+commit b1404a973b158e32d3d3726d71d55adf25c63f2d
+gpg: Signature made Mon 13 Sep 2021 22:31:13 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Mon Sep 13 22:31:13 2021 +0800
+
+    minor fixes
+
+commit 1ca571f4ad6d33cfc913ec6cc14e4c1efdc9c0f7
+gpg: Signature made Mon 13 Sep 2021 16:14:07 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Mon Sep 13 16:14:07 2021 +0800
+
+    add partial Mathjax support
+
+commit 58ee9b599bb806c0f0260419fe3fd0fb650a506e
+gpg: Signature made Sun 12 Sep 2021 23:33:24 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sun Sep 12 23:33:24 2021 +0800
+
+    add -hexo-mathjax-plugin
+
+commit 640ed46396c83218c95eed2ecd8ced8a442179bd
+gpg: Signature made Sun 12 Sep 2021 22:32:37 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sun Sep 12 22:32:37 2021 +0800
+
+    update gpg guide and test
+
+commit 230bb365d7a199797186ad8c0dc6e36f0090aa94
+gpg: Signature made Sun 12 Sep 2021 17:20:42 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sun Sep 12 17:20:08 2021 +0800
+
+    modidfied gitignore
+
+commit 8f523415ddf1c7ace1382feaf1efb5fc13793bb9
+gpg: Signature made Sun 12 Sep 2021 17:18:22 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sun Sep 12 17:16:24 2021 +0800
+
+    Turn private now. revoked Gitalk and Git auth key.
+
+commit 0a9f4be61d25671b16ab71a787f5afea4142a695
+gpg: Signature made Sun 12 Sep 2021 16:33:49 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sun Sep 12 16:33:49 2021 +0800
+
+    Delete gitalk. This repo will go private in the next commit.
+
+commit cddfbf81fd4fba87e0b265bf2e7626c3eaab814b
+gpg: Signature made Sun 12 Sep 2021 15:31:27 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sun Sep 12 15:31:27 2021 +0800
+
+    try fixing gitalk count 1
+
+commit fb0747e1cb9c5dc01b7d46a25a58195040edfd20
+Merge: fa826f6 0c1261b
+Author: H3arn <root@h3a.moe>
+Date:   Sun Sep 12 15:16:55 2021 +0800
+
+    Merge branch 'master' of https://github.com/H3arn/h3a.moe
+
+commit fa826f6115df5ddc41f15ec658f93eb17923107f
+gpg: Signature made Sun 12 Sep 2021 15:16:09 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sun Sep 12 15:16:09 2021 +0800
+
+    add gitalk
+
+commit 0c1261b9113b4825f8edc23ee518f53fa4602776
+gpg: Signature made Sun 12 Sep 2021 15:00:42 +08
+gpg:                using RSA key 4AEE18F83AFDEB23
+gpg: Can't check signature: No public key
+Merge: 9b7ba31 f5a7246
+Author: H3arn <75999000+H3arn@users.noreply.github.com>
+Date:   Sun Sep 12 15:00:42 2021 +0800
+
+    Merge pull request #1 from H3arn/add-license-1
+    
+    Create LICENSE
+
+commit 9b7ba31ca727ef6f824df7324331bdc3d9c7bd89
+gpg: Signature made Sun 12 Sep 2021 15:00:22 +08
+gpg:                using RSA key 4AEE18F83AFDEB23
+gpg: Can't check signature: No public key
+Author: H3arn <75999000+H3arn@users.noreply.github.com>
+Date:   Sun Sep 12 15:00:22 2021 +0800
+
+    Create LICENSE
+
+commit f5a724634fa1dcf3f5449f8a18aa06bb584a33db
+gpg: Signature made Sun 12 Sep 2021 15:00:10 +08
+gpg:                using RSA key 4AEE18F83AFDEB23
+gpg: Can't check signature: No public key
+Author: H3arn <75999000+H3arn@users.noreply.github.com>
+Date:   Sun Sep 12 15:00:10 2021 +0800
+
+    Create LICENSE
+
+commit 3b235df8c39b0791a7d1dc350f37b8a364dfb1e5
+gpg: Signature made Sun 12 Sep 2021 00:31:18 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <75999000+H3arn@users.noreply.github.com>
+Date:   Sun Sep 12 00:31:18 2021 +0800
+
+    delete public and original theme config
+
+commit 291d1e4641a28e627d519cba41f877ae2e984b44
+gpg: Signature made Sun 12 Sep 2021 00:23:11 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <75999000+H3arn@users.noreply.github.com>
+Date:   Sun Sep 12 00:23:11 2021 +0800
+
+    update TEST
+
+commit 35509aa48bc14a1aebb83e093c8885b48c043fb3
+gpg: Signature made Sat 11 Sep 2021 21:55:51 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <75999000+H3arn@users.noreply.github.com>
+Date:   Sat Sep 11 21:55:51 2021 +0800
+
+    append node_modules
+
+commit 62138b4abf953b61f5e9ab654714f2a359b520de
+gpg: Signature made Sat 11 Sep 2021 16:26:12 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sat Sep 11 16:26:12 2021 +0800
+
+    Initial commit

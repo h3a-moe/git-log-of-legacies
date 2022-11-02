@@ -1,0 +1,1017 @@
+commit 7c57176f3adcf8f979943ea0f2b5e3a96262e7bc
+gpg: Signature made Wed 02 Nov 2022 00:39:05 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Wed Nov 2 00:38:43 2022 +0800
+
+    audit the instruction of PGP pubkey verification
+
+commit a0740db81ed3c2c63ee7e1ff3c8e25bd95cc539d
+gpg: Signature made Tue 01 Nov 2022 22:28:47 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Tue Nov 1 22:28:03 2022 +0800
+
+    Squashed commit of the following:
+    
+    commit 11202865bb9d22c4e94cccfd290c6e0341c678e4
+    Author: H3arn (root@h3a.moe)
+    Date:   Tue Nov 1 22:11:35 2022 +0800
+    
+        Add piggy to my friend links!
+        Synchronize zh & en site config
+    
+    commit 857a8046cbfd2ebe71dd7c98d23e0a0a9c475cb5
+    Author: H3arn (root@h3a.moe)
+    Date:   Tue Nov 1 21:38:31 2022 +0800
+    
+        try deploying server-side code highlighting
+
+commit 8e7a90a4266e94eae446ca61623cc16f74bf761b
+gpg: Signature made Mon 31 Oct 2022 02:08:12 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Mon Oct 31 02:07:52 2022 +0800
+
+    add EX00007: Hackergame 2022 Writeup
+
+commit d185de86dc8de549ae660e128a0664c040c165c0
+gpg: Signature made Sun 23 Oct 2022 17:16:56 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sun Oct 23 17:16:41 2022 +0800
+
+    add node version dependency
+
+commit 0e463f5be68fe30a4d77c9c0c976ee8a0f02684d
+gpg: Signature made Sun 23 Oct 2022 16:51:23 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sun Oct 23 16:50:59 2022 +0800
+
+    announce breaking change in date format, but in /en
+
+commit f2b6ac927c7dd45a99cc7af717702f7ce91a5f2f
+gpg: Signature made Sun 23 Oct 2022 16:50:47 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sun Oct 23 16:50:32 2022 +0800
+
+    fix typo on en/d07363
+
+commit a2b4dc4169339eca1c5e77c15b87f0dda664c862
+gpg: Signature made Sun 23 Oct 2022 16:50:18 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sun Oct 23 16:49:51 2022 +0800
+
+    align /en/about with /about
+
+commit f5aa8872421d37c91ebdf0e5c7e389fefcf75e4d
+gpg: Signature made Sun 23 Oct 2022 16:45:39 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sun Oct 23 16:45:29 2022 +0800
+
+    update dependency for english site
+
+commit cdde96c3066bf60657ffb994dab9952430bd0a2b
+gpg: Signature made Sun 23 Oct 2022 16:13:04 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sun Oct 23 16:12:31 2022 +0800
+
+    Announce Breaking Change in Date Format
+
+commit c3009767cce6845b298e1d3a604b0f7bbaf63272
+gpg: Signature made Fri 21 Oct 2022 20:54:28 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Fri Oct 21 20:53:35 2022 +0800
+
+    add content about pgp pubkey verification in /about and en/d07363
+
+commit 340116b64a4da709888e797ee9a6e517949edab0
+gpg: Signature made Sat 08 Oct 2022 20:34:56 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sat Oct 8 20:32:39 2022 +0800
+
+    update d07427
+    - rename sections and fix title level
+    - add the command to change default CA
+    - add parameter for multiple accounts
+    - other minor fix
+
+commit b882ddd8677c6acba526c8906931251b10da0d11
+gpg: Signature made Sat 08 Oct 2022 19:46:47 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sat Oct 8 19:46:39 2022 +0800
+
+    add d07707
+
+commit 1855e6a7417cbba33b05d7123ba6c968640dd713
+gpg: Signature made Sat 08 Oct 2022 16:28:04 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sat Oct 8 16:22:30 2022 +0800
+
+    update d07395
+    - add disclaimer in firewall and TLS setup
+    - separate nginx configs
+    - change environment variable description
+    - add docker-compose config
+    - change SMTP provider recommendation
+    - add keepass in 2fa client recommendation
+    - fix path expression in backup and restore commands
+
+commit 9e914e9f318a963eddba8e24faa3beafec6f29e5
+gpg: Signature made Fri 07 Oct 2022 18:19:03 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Fri Oct 7 18:18:51 2022 +0800
+
+    add libbpf breaking changes warning for d07401
+
+commit c9e3d334aef983f2da0608d5d77c849d5b6a10c0
+gpg: Signature made Sun 21 Aug 2022 20:59:16 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sun Aug 21 20:59:08 2022 +0800
+
+    add 2fa for 'su'
+
+commit db519dd970e942bacc4cc07f942abae836425cd7
+gpg: Signature made Sun 21 Aug 2022 20:15:25 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sun Aug 21 20:14:42 2022 +0800
+
+    add h1 element in /history to prevent margin shift
+
+commit 0011fa5740f6f1f4ab2e93a3cdce23390fe4da5e
+gpg: Signature made Thu 18 Aug 2022 15:41:39 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Thu Aug 18 15:41:31 2022 +0800
+
+    moved some drafts
+
+commit 30e62689b95cc48650960e19fb6b0def9fba0f82
+gpg: Signature made Tue 16 Aug 2022 13:33:39 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Tue Aug 16 13:33:25 2022 +0800
+
+    add pointee to my links
+
+commit 27a28642026a936a8cc720c1d1aae7159280e0f3
+gpg: Signature made Sun 31 Jul 2022 16:18:38 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sun Jul 31 16:17:58 2022 +0800
+
+    apply cubercsl's suggestion
+
+commit f46f4876a8c6544f43f202932247f341942413b1
+gpg: Signature made Fri 29 Jul 2022 14:00:03 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Fri Jul 29 13:59:55 2022 +0800
+
+    add d07680
+
+commit 0d3e3601a063cff5c2638637003c466d8e4795c7
+gpg: Signature made Mon 25 Jul 2022 22:54:02 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Mon Jul 25 22:53:10 2022 +0800
+
+    npm update & edit my patches
+
+commit 62c0fd4464282fd4a42eca3d511a86f7c9e92ddf
+gpg: Signature made Mon 25 Jul 2022 22:52:10 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Mon Jul 25 22:50:58 2022 +0800
+
+    remove faulty CSS properties for excerpt
+
+commit b0ebf5185c2e5a88ce30b688272f71ec6c0bf19b
+gpg: Signature made Wed 25 May 2022 01:30:18 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Wed May 25 01:30:07 2022 +0800
+
+    add p element for about-intro
+
+commit 4f9ad68989734fd7f0be478040b6b664fb706bc3
+gpg: Signature made Tue 24 May 2022 03:17:08 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Tue May 24 03:17:08 2022 +0800
+
+    customize /about layout
+
+commit 54d77066856c5089bb5a848acee6a6ba9b546559
+gpg: Signature made Tue 24 May 2022 02:50:09 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Tue May 24 02:50:09 2022 +0800
+
+    audited anchor css properties
+
+commit 987556c186ef4465e89416f69a5fe1b3acbfe3cf
+gpg: Signature made Tue 24 May 2022 01:45:05 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Tue May 24 01:45:04 2022 +0800
+
+    remove text-shadow
+
+commit eac0b9a78201d90fede69a50dc8079021db75687
+gpg: Signature made Mon 23 May 2022 21:06:07 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Mon May 23 21:06:07 2022 +0800
+
+    enforce line-height=1.5
+
+commit a516cf9b24d3499fc2c6b276e1daa09cea2d1922
+gpg: Signature made Sun 22 May 2022 19:24:28 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sun May 22 19:23:54 2022 +0800
+
+    init 1.9.0 customization
+    layout shift fix WIP
+
+commit f6255248076a60cc3e9211f2970a3df5b06983bc
+gpg: Signature made Wed 18 May 2022 00:49:40 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Wed May 18 00:49:40 2022 +0800
+
+    update entries
+
+commit 6111f4940c3ceb3764b50c95dcbc8a295357e1bc
+gpg: Signature made Sun 15 May 2022 16:54:28 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sun May 15 16:54:28 2022 +0800
+
+    update history generator
+
+commit bd87e9babeed5d74ff1335944b7dcc46f865b10e
+gpg: Signature made Sun 15 May 2022 01:13:27 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sun May 15 01:13:27 2022 +0800
+
+    add d07608
+
+commit 0121b3fe9aab773887b36c3ac53447e5dbba370a
+gpg: Signature made Sun 15 May 2022 00:48:49 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sun May 15 00:48:49 2022 +0800
+
+    fetch all refs in build scripts
+
+commit bc705e9ace12a3aa1c1e5b912918200e884716ac
+gpg: Signature made Sun 15 May 2022 00:33:33 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sun May 15 00:33:27 2022 +0800
+
+    test gpg2
+
+commit 4f4bdaab9d06d6d1cfbd63637c29264f5f39ebf4
+gpg: Signature made Sat 14 May 2022 16:26:09 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sat May 14 16:26:09 2022 +0800
+
+    edited d07395 & d07401
+
+commit 218885320fd0746071456f4ede7c4372d33439f6
+gpg: Signature made Sat 14 May 2022 02:03:25 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sat May 14 02:03:25 2022 +0800
+
+    add d07607
+
+commit 5def95c46326e3dbe5b44dc69a1396b5c756554f
+gpg: Signature made Fri 13 May 2022 01:57:30 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Fri May 13 01:57:19 2022 +0800
+
+    add septs to my links
+
+commit 2a9b2e15025cd04dabefae905d95d692e0605fe6
+gpg: Signature made Fri 13 May 2022 01:31:10 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Fri May 13 01:31:01 2022 +0800
+
+    add XYenon to my links
+
+commit 932a964483f63d0913aa4fa86fefa10acfcc1a6d
+gpg: Signature made Wed 11 May 2022 21:45:15 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Wed May 11 21:44:55 2022 +0800
+
+    move the pubkey to /
+
+commit 9b1b4251a378ad69afd1b80fa79cd2d2f5eb9a95
+gpg: Signature made Sun 08 May 2022 19:41:06 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sun May 8 19:41:06 2022 +0800
+
+    update my last words
+
+commit 5672e9a8a47e6184ff4cc6f2a515036e0bb0717f
+gpg: Signature made Fri 06 May 2022 20:19:57 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Merge: af2516d 386e415
+Author: H3arn <root@h3a.moe>
+Date:   Fri May 6 20:19:53 2022 +0800
+
+    Merge branch 'fontest'
+
+commit 386e4154a141bf89671b0407e7d6921816b493d6
+gpg: Signature made Fri 06 May 2022 19:53:52 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Fri May 6 19:53:52 2022 +0800
+
+    + custom css & jbmono
+
+commit af2516ded4685e541fd3ddf561f7ddf1116639e6
+gpg: Signature made Fri 29 Apr 2022 23:19:52 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Fri Apr 29 23:17:46 2022 +0800
+
+    update /about, delete d07363 & altered some posts
+      - d07366
+      - d07367
+      - d07395
+      - d07401
+
+commit a452c5f21b70e9f5494bd97e878557c965a18bff
+gpg: Signature made Thu 28 Apr 2022 01:59:24 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Thu Apr 28 01:59:10 2022 +0800
+
+    add miaotony to links & optimize history index
+
+commit 536a7b8b4d1aa47712cd74425d8d4a3391906e22
+gpg: Signature made Mon 18 Apr 2022 15:07:14 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Mon Apr 18 15:07:10 2022 +0800
+
+    add d7582
+
+commit 29ff876bce4a8fe2d783dcb0e0ecc3aeda7ca4b6
+gpg: Signature made Mon 18 Apr 2022 12:55:58 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Mon Apr 18 12:54:41 2022 +0800
+
+    add <figure> for prism code blocks
+
+commit a4a67044386aee5967add9bd2f864b70a9b3ccfb
+gpg: Signature made Sat 16 Apr 2022 23:44:15 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sat Apr 16 23:43:52 2022 +0800
+
+    redirect /history to netlify
+
+commit dd005c81f13bc6739bf305cbc0a63dadbcd4d1fa
+gpg: Signature made Sat 16 Apr 2022 23:18:35 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sat Apr 16 23:18:08 2022 +0800
+
+    rename the filenames for days after 9999
+
+commit a5dd35d618cef437975f88f64ff75a5ce701b574
+gpg: Signature made Fri 01 Apr 2022 21:20:56 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Fri Apr 1 21:20:38 2022 +0800
+
+    update someone's link
+
+commit 589bb677719783ab19b22fdb981a0fd38bfeae94
+gpg: Signature made Thu 31 Mar 2022 17:13:02 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Thu Mar 31 17:12:54 2022 +0800
+
+    add ziyao to my links
+
+commit 27fccf488d068c604d0c6b6c4ba18e91d8b0e64f
+gpg: Signature made Wed 30 Mar 2022 20:21:56 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Wed Mar 30 20:21:33 2022 +0800
+
+    remove codeblock line numbers
+
+commit e0abf14bbbc1b6440a0b4159c704c76a86507c2c
+gpg: Signature made Thu 24 Mar 2022 13:23:10 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Thu Mar 24 13:23:05 2022 +0800
+
+    fix /about
+
+commit 36c74422008424ca1791310d9bc62c3593647c6b
+gpg: Signature made Sun 20 Mar 2022 16:31:47 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sun Mar 20 16:31:37 2022 +0800
+
+    add history page
+
+commit 623e834a20bfdaef46a7310cb965712dd7759121
+gpg: Signature made Sun 20 Mar 2022 01:43:43 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Merge: e9b31df 39b79ea
+Author: H3arn <root@h3a.moe>
+Date:   Sun Mar 20 01:43:38 2022 +0800
+
+    Merge branch 'devfont'
+
+commit 39b79eaee80e73116dd7fca994f96802ac65e568
+gpg: Signature made Sun 20 Mar 2022 01:39:30 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sun Mar 20 01:39:09 2022 +0800
+
+    try to deploy new code block font
+
+commit 3cd047d87404a51838c9b3668cafc41eef47585e
+gpg: Signature made Sun 20 Mar 2022 01:33:37 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sun Mar 20 01:33:22 2022 +0800
+
+    test rewrite codeblock font
+
+commit e9b31dfce9599671ccbf6a96bc9fd0357daf4cb8
+gpg: Signature made Wed 16 Mar 2022 15:53:22 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Wed Mar 16 15:51:57 2022 +0800
+
+    add danger sign in d7363, correct glitches in d7537 and add eng ver
+
+commit cf36dc3f03a051c8a3c23a754f86e5fd8998cde9
+gpg: Signature made Wed 16 Mar 2022 15:51:19 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Wed Mar 16 15:48:30 2022 +0800
+
+    fix disappeared new line caused by prismjs
+
+commit 9eb0f982a50058b064b2b2c6419ec0277be94616
+gpg: Signature made Wed 16 Mar 2022 15:48:07 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Wed Mar 16 15:47:34 2022 +0800
+
+    fix the html btn in template
+
+commit 5582d21250357fdfab2a69c33b0865515f31bcc8
+gpg: Signature made Tue 15 Mar 2022 22:12:30 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Tue Mar 15 22:11:52 2022 +0800
+
+    use custom font & switch to prismjs
+
+commit 7051393e0c5775576b087508471bb7d5c1abc097
+gpg: Signature made Sat 12 Mar 2022 02:15:27 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sat Mar 12 02:14:54 2022 +0800
+
+    fix nico's avatar & add 33 and csl to my links.
+
+commit d6d0d0b2701edd23b0cbd4f6c51f297fbcd2af87
+gpg: Signature made Sat 05 Mar 2022 01:28:30 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sat Mar 5 01:28:02 2022 +0800
+
+    update update script
+
+commit 80fa16024f3ae072d7ed3b876dc50371b72b4eb0
+gpg: Signature made Sat 05 Mar 2022 01:27:31 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sat Mar 5 01:27:15 2022 +0800
+
+    add d7537
+
+commit 0c6d807977d011574f60a725fe174e6fe4de347c
+gpg: Signature made Thu 03 Mar 2022 13:32:54 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Thu Mar 3 13:32:44 2022 +0800
+
+    add moecast to my links
+
+commit e922f483456fc9bf7d8b2efd708bcf8a6841306f
+gpg: Signature made Thu 24 Feb 2022 21:45:22 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Thu Feb 24 21:44:45 2022 +0800
+
+    Fix wrong email on two commits
+    commit 1c2ca5e697645a8491ab2d1e80bd04daf694c50f
+    Author: H3arn <rooth3a.moe>
+    Date:   Wed Feb 23 19:02:04 2022 +0800
+    
+        update /about
+    
+    commit c8f2283e7bcf818071d1d52dbfc9c81a84348b07
+    Author: H3arn <rooth3a.moe>
+    Date:   Wed Feb 23 18:43:51 2022 +0800
+    
+        update d7363 with new gpg cmd
+
+commit df05e030a39ecd181b71d53b00b9245d4d98ba0e
+gpg: Signature made Sat 12 Feb 2022 14:41:55 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sat Feb 12 14:41:45 2022 +0800
+
+    add alexhhh to my links
+
+commit 53e9182707bf2d74da6be629a9dcc1fb36e1a3ad
+gpg: Signature made Sat 12 Feb 2022 14:20:19 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sat Feb 12 14:20:06 2022 +0800
+
+    add c10s to my my links
+
+commit b40960ba1135d763c50fc106a6647accd35dccb6
+gpg: Signature made Fri 11 Feb 2022 22:47:21 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Fri Feb 11 22:47:05 2022 +0800
+
+    change default root dir
+
+commit 3810792bdb1a971c886026c0508de999bb4dee9e
+gpg: Signature made Fri 11 Feb 2022 20:07:34 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Fri Feb 11 20:07:04 2022 +0800
+
+    edit d7395: reverse proxy & backup
+
+commit 53954d64fb7d7caf0abd6578b2cbe0ce22c1ae1e
+gpg: Signature made Fri 04 Feb 2022 22:20:30 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Fri Feb 4 22:19:37 2022 +0800
+
+    correct wrong explanations of parameters in d7395
+
+commit 56f8313c32eb53e0a60d0dd0d69f40cb3198c83a
+gpg: Signature made Fri 04 Feb 2022 21:48:48 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Fri Feb 4 21:48:02 2022 +0800
+
+    mentioned my PGP pubkey in /about
+
+commit bf5c4e8a731832321da146dddc68af7ee930d776
+gpg: Signature made Sun 30 Jan 2022 17:10:09 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sun Jan 30 17:09:57 2022 +0800
+
+    update comment repo path
+
+commit 790a26bbffcfa351f6f3fa95dc5f9c2762554363
+gpg: Signature made Sun 30 Jan 2022 15:08:40 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sun Jan 30 15:08:14 2022 +0800
+
+    add Nico to my links
+
+commit 54134de5966b7e3e94676a82cabba48f4932baee
+gpg: Signature made Sun 30 Jan 2022 14:42:57 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sun Jan 30 14:42:22 2022 +0800
+
+    minor audit on */links and .gitignore
+
+commit 7f82cdfd10f7ecf5ad5ff7cafe144790eaa19931
+gpg: Signature made Mon 24 Jan 2022 21:59:14 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Mon Jan 24 21:59:09 2022 +0800
+
+    add -o to unzip in d7401 & add "updated" to /zh
+
+commit 4f0a6a99c53098bd14c17f9b14065f6a8db7490c
+gpg: Signature made Thu 30 Dec 2021 21:14:11 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Thu Dec 30 21:11:33 2021 +0800
+
+    add note tag to d7363, squeeze menu and follow up avatar rendering fix
+    use submenu to fold up 'archive', 'category' and 'tag'
+    apply changes in fluid-dev/hexo-theme-fluid commit d8df838
+
+commit c3bf3fb494cb7fdc998c1ab3b38c964c4fc0c581
+gpg: Signature made Sun 26 Dec 2021 15:58:31 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sun Dec 26 15:55:09 2021 +0800
+
+    add YuutaK and fix a few glitches in two articles
+
+commit daa9d5f6df72c9c754601ab42aab03714627ddde
+gpg: Signature made Sun 26 Dec 2021 14:51:20 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sun Dec 26 14:50:59 2021 +0800
+
+    temp fix on the avatar rendering
+
+commit d494aeb7b0ca0d76a75356c5646026abd52ea34c
+gpg: Signature made Sun 26 Dec 2021 13:02:21 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sun Dec 26 13:01:58 2021 +0800
+
+    update npm dependency to reproduce bug
+
+commit afcf4df29dc4a5c6356f264986b5e98241a0ead7
+gpg: Signature made Sun 26 Dec 2021 03:56:38 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sun Dec 26 03:55:25 2021 +0800
+
+    roll back dependency & add multiple line slogan
+
+commit 326649a1ab08db5c81986de2835ce5db7c534b7d
+gpg: Signature made Sun 26 Dec 2021 00:17:26 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sun Dec 26 00:16:59 2021 +0800
+
+    toggle commented link of rurichan
+
+commit 8c92745abf4ccdb3666876fa760d36278dbe789c
+gpg: Signature made Sat 25 Dec 2021 02:10:37 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sat Dec 25 02:10:18 2021 +0800
+
+    fix updated date in /zh/d7363
+
+commit 5b0ede44d2038b3631e93f84600ef6266d1209b9
+gpg: Signature made Sat 25 Dec 2021 02:00:32 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sat Dec 25 02:00:10 2021 +0800
+
+    update my PGP public key.
+
+commit b3f6ccd22fe68ff42f10399671ef1cf3afebb102
+gpg: Signature made Thu 23 Dec 2021 23:14:03 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Thu Dec 23 23:13:47 2021 +0800
+
+    f**k npm
+
+commit 99836a7e6756fbbb6ead8e620a582df543af1b25
+gpg: Signature made Thu 23 Dec 2021 14:00:51 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Thu Dec 23 14:00:28 2021 +0800
+
+    update docker command in d7395
+
+commit 9f44815787485279e20e5daea0a649d75ca6bdf7
+gpg: Signature made Tue 21 Dec 2021 21:26:48 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Tue Dec 21 21:25:20 2021 +0800
+
+    Finish translation for previous articles, and fix a expression in d7395
+    translated d7366-1 and d7366-2
+    fix a folder name mentioned in d7395
+
+commit 91b9b147dbedc2c5f643801df3d60b11c9010e44
+gpg: Signature made Mon 20 Dec 2021 18:56:10 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Mon Dec 20 18:55:46 2021 +0800
+
+    update update script for multiple upstreams
+
+commit 3ece9f4a2438decc104ce906c7e1c8e7c4733516
+gpg: Signature made Sun 19 Dec 2021 13:13:51 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sun Dec 19 13:13:40 2021 +0800
+
+    add yuuta to links
+
+commit b2cc1fb386f231c55bb00a386b8b3f8b417ded56
+gpg: Signature made Sun 12 Dec 2021 01:18:20 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sun Dec 12 01:18:08 2021 +0800
+
+    update link info
+
+commit 16766c2d0ce91d274b67b0057ae25a72c03e7f85
+gpg: Signature made Thu 09 Dec 2021 01:18:13 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Thu Dec 9 01:18:01 2021 +0800
+
+    add d7448
+
+commit 1f8b9cc591a2a7f6f64d23f16239eac784c3ba98
+gpg: Signature made Mon 06 Dec 2021 17:43:30 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Mon Dec 6 17:43:16 2021 +0800
+
+    fix remote-gen script again
+
+commit b8f9c5019ccb024dcf9d38f0eeda8a5abbde447e
+gpg: Signature made Mon 06 Dec 2021 01:26:33 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Mon Dec 6 01:26:08 2021 +0800
+
+    restore updated field in front-matter
+
+commit 80a99241778bdc1c325e76e91f4b6b80e28ed021
+gpg: Signature made Fri 03 Dec 2021 12:31:20 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Fri Dec 3 12:31:20 2021 +0800
+
+    use utterances
+
+commit 7c2c4590175498233f79ba32b4e963a897cf59f7
+gpg: Signature made Fri 03 Dec 2021 12:07:14 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Fri Dec 3 12:07:14 2021 +0800
+
+    remove one-way links
+
+commit 32d3d15c3ad18722cd6e506b2d55e259b3fd43e9
+gpg: Signature made Thu 02 Dec 2021 21:33:23 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Thu Dec 2 21:33:23 2021 +0800
+
+    switch comment back to gitalk
+
+commit d301b8687a4d8a726b3ec0bb74e2fa7daa811f83
+gpg: Signature made Thu 02 Dec 2021 01:07:37 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Thu Dec 2 01:07:37 2021 +0800
+
+    update d7395
+
+commit a6d0084fbb528c5b0b5398cd3d47f811eb631984
+gpg: Signature made Sat 27 Nov 2021 20:58:26 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sat Nov 27 20:58:26 2021 +0800
+
+    Relocate asset folder. Update d7395. Create d7367 for mandarin.
+
+commit fba525ba11fa0ce288a01d2e8f1e23411dac081e
+gpg: Signature made Wed 24 Nov 2021 13:17:22 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Wed Nov 24 13:17:22 2021 +0800
+
+    add KusakabeSi to my links
+
+commit f9de59f8c481b2e4d1377870c3f73911c14cb75c
+gpg: Signature made Fri 19 Nov 2021 17:44:21 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Fri Nov 19 17:44:21 2021 +0800
+
+    update a few articles and the button
+
+commit 96051f918ad6c9dca4427b0b674bd193ded51a70
+gpg: Signature made Wed 17 Nov 2021 12:28:11 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Wed Nov 17 12:28:11 2021 +0800
+
+    add megumifox
+
+commit 6946d9e24fced23318114f5fc56bb4597f2a6496
+gpg: Signature made Wed 17 Nov 2021 11:14:49 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Wed Nov 17 11:14:37 2021 +0800
+
+    add bcc to my links!
+
+commit ed1978ede433c1d5bc6f8ecc9305d6a2b4027a7b
+gpg: Signature made Mon 15 Nov 2021 22:11:19 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Mon Nov 15 22:11:19 2021 +0800
+
+    update d7395 and links
+
+commit 7b9016d74d60b100c356a45ef4f3599966707d77
+gpg: Signature made Mon 15 Nov 2021 19:52:28 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Mon Nov 15 19:52:28 2021 +0800
+
+    add a lot of friends
+
+commit 7604f3319a291311fa151a67ad23171476f795af
+gpg: Signature made Mon 15 Nov 2021 17:56:32 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Mon Nov 15 17:56:18 2021 +0800
+
+    add rss
+
+commit 34794735e9e4c7092c1eed001984dc837ad89e54
+gpg: Signature made Mon 15 Nov 2021 13:10:29 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Mon Nov 15 13:10:29 2021 +0800
+
+    update /about/ /links/ and d7395
+
+commit 7b0a74a28e6bf58d689cba54c6d932c3e5dd52e0
+gpg: Signature made Mon 15 Nov 2021 01:56:25 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Mon Nov 15 01:56:25 2021 +0800
+
+    update avatar path and switch to disqus
+
+commit 3d401623e0ab787beb7c188ebe311432e0c1884d
+gpg: Signature made Mon 15 Nov 2021 01:26:10 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Mon Nov 15 01:25:00 2021 +0800
+
+    major update. add new links. update d7395 and add d7427.
+
+commit 72ad5377ca0a39eb732d017c19bd63ee505bd185
+gpg: Signature made Sat 13 Nov 2021 14:50:45 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sat Nov 13 14:50:29 2021 +0800
+
+    optimize remote shell again
+
+commit 720f64002ceee0d08dc2b52447b7dc368d73f047
+gpg: Signature made Sat 13 Nov 2021 14:40:13 +08
+gpg:                using EDDSA key B71DA9848E17C6E772A3C3C4FD1106C9445D42D0
+gpg: Good signature from "H3arn (Hearn's PGP key v2.0) <root@h3a.moe>" [ultimate]
+Author: H3arn <root@h3a.moe>
+Date:   Sat Nov 13 14:39:22 2021 +0800
+
+    init
